@@ -40,3 +40,6 @@ The deliverable comprises of an integrated application for the end user which wi
 <li>Accelerometer</li> 
 <li>GPS Sensors</li>
 </ol>
+
+<hr>
+_Please go through the screenshots folder to understand about the App structure and overview._
