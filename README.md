@@ -3,8 +3,8 @@ Now-a-days, due to increased traffic and human recklessness, there has been a hu
 
 <hr>
 **Development software used :**
-a)	Java Development Kit 1.8 
-b)	Android Studio 3.2
+# Java Development Kit 1.8 
+# Android Studio 3.2
 c)	Android SDK API 29
 d)	Firebase Web Services and Database
 e)	Firebase cloud messaging
