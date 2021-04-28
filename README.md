@@ -3,6 +3,16 @@ Now-a-days, due to increased traffic and human recklessness, there has been a hu
 
 <hr>
 
+The deliverable comprises of an integrated application for the end user which will allow him/her the following services or features :
+
+1.	Application allowing the user to register his/her details. <br>
+2.	Feature to add emergency contact within the application.<br>
+3.	Enabling the user to view history of previous accidents.<br>
+4.	Availability to switch the alerting and tracking system.<br>
+5.	Enabling user to request or cancel emergency services.<br>
+6.	Availability of post-accident services and track up<br>
+
+
 **Development software used :**
 
 <ol>
