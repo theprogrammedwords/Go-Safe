@@ -3,12 +3,13 @@ Now-a-days, due to increased traffic and human recklessness, there has been a hu
 
 <hr>
 **Development software used :**
+<ol>
 Java Development Kit 1.8
 Android Studio 3.2
 Android SDK API 29
 Firebase Web Services and Database
 Firebase cloud messaging
-
+</ol>
 **API’s used :**
 Google Location API
 Android Google Map API
