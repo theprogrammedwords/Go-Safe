@@ -13,15 +13,16 @@ Now-a-days, due to increased traffic and human recklessness, there has been a hu
 <li>Firebase cloud messaging</li>
 </ol>
 **API’s used :**
-Google Location API
-Android Google Map API
-Google Places API web service
-Google Directions API
-Retrofit
-Geofire
+
+<li>Google Location API</li>
+<li>Android Google Map API</li>
+<li>Google Places API web service</li>
+<li>Google Directions API</li>
+<li>Retrofit</li>
+<li>Geofire</li>
 
 **Android Sensors used :**
-a.	Accelerometer 
-b.	Gyroscope
-c.	GPS Sensors
+
+<li>Accelerometer</li> 
+<li>GPS Sensors</li>
 
