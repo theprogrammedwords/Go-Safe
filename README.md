@@ -3,19 +3,19 @@ Now-a-days, due to increased traffic and human recklessness, there has been a hu
 
 <hr>
 **Development software used :**
-# Java Development Kit 1.8 
-# Android Studio 3.2
-c)	Android SDK API 29
-d)	Firebase Web Services and Database
-e)	Firebase cloud messaging
+Java Development Kit 1.8
+Android Studio 3.2
+Android SDK API 29
+Firebase Web Services and Database
+Firebase cloud messaging
 
 **API’s used :**
-a)	Google Location API
-b)	Android Google Map API
-c)	Google Places API web service
-d)	Google Directions API
-e)	Retrofit
-f)	Geofire
+Google Location API
+Android Google Map API
+Google Places API web service
+Google Directions API
+Retrofit
+Geofire
 
 **Android Sensors used :**
 a.	Accelerometer 
