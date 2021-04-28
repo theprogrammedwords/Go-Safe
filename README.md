@@ -15,15 +15,18 @@ Now-a-days, due to increased traffic and human recklessness, there has been a hu
 
 **API’s used :**
 
+<ol>
 <li>Google Location API</li>
 <li>Android Google Map API</li>
 <li>Google Places API web service</li>
 <li>Google Directions API</li>
 <li>Retrofit</li>
 <li>Geofire</li>
+</ol>
 
 **Android Sensors used :**
 
+<ol>
 <li>Accelerometer</li> 
 <li>GPS Sensors</li>
-
+</ol>
